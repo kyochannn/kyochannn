@@ -1,6 +1,5 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyochannn)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+### kyochani 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyochannn&show_icons=true&theme=synthwave)
 <!--
 **kyochannn/kyochannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
